@@ -1,7 +1,7 @@
 <H3>Name:Ranjan kumar G </H3>
 <H3>Register No:212223240138 </H3>
 <H3>Experiment 2</H3>
-<H3>Date:28-08-2025</H3>
+<H3>Date:28-09-2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
